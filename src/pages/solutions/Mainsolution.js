@@ -1,4 +1,5 @@
 import React from "react";
+import Team from "../about/Team";
 import Solution from "./Solution";
 import Solutionmapping from "./Solutionmapping";
 
@@ -7,6 +8,7 @@ const Mainsolution = () => {
     <div>
       <Solution />
       <Solutionmapping/>
+      <Team/>
     </div>
   );
 };

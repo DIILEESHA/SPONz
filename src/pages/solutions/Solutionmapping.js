@@ -5,6 +5,8 @@ import styled from "styled-components";
 import { IconContext } from "react-icons";
 import { FiPlus, FiMinus } from "react-icons/fi";
 import { Data } from "./Data";
+import Team from "../about/Team";
+import environment from "../../assets/assests/environment.png";
 
 const AccordionSection = styled.div`
   display: flex;
@@ -40,7 +42,7 @@ const Wrap = styled.div`
   h1 {
     padding: 2rem;
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 500;
     text-align:left;
     text-transform: uppercase;
   }
@@ -135,7 +137,10 @@ const Solutionmapping = () => {
             </AccordionSection>
           </IconContext.Provider>
         </div>
+        <>
+        </>
       </div>
+      
     </div>
   );
 };
