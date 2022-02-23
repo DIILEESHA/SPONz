@@ -42,7 +42,7 @@ const Navbar = () => {
         <div className="navleft">
           {" "}
           <div className={show ? "links active" : "links"}>
-            <Link onClick={() => showSwitch()} to="/">
+            <Link onClick={() => showSwitch()} to="/solution">
               solutions
             </Link>
             <Link onClick={() => showSwitch()} to="/about">

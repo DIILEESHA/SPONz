@@ -2,15 +2,19 @@
   display: flex;
   color: black;
   margin-top: 150px;
+  overflow: hidden;
+  /* background-color: rgb(233, 201, 22); */
 
 }
 .homeleft {
   flex: 1;
   padding: 0px 120px;
   margin-top: 90px;
+  /* background-color: rgb(211, 205, 205); */
 }
 .homeright {
   flex: 1;
+  /* background-color: rgb(211, 205, 205); */
 }
 
 
@@ -42,7 +46,7 @@ margin-bottom: 40px;
 }
 .landingbtn{
     padding: 20px 30px;
-    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    background-image: linear-gradient(140deg,#6653ff 0%,#14c688 100%)!important;
     border: none;
     color: white;
     font-weight: 500;
