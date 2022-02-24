@@ -1,5 +1,6 @@
 import React from "react";
 import Team from "../about/Team";
+import Interfaces from "./Interfaces";
 import Solution from "./Solution";
 import Solutionmapping from "./Solutionmapping";
 
@@ -8,6 +9,7 @@ const Mainsolution = () => {
     <div>
       <Solution />
       <Solutionmapping/>
+      <Interfaces/>
       <Team/>
     </div>
   );
