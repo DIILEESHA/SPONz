@@ -1,4 +1,4 @@
-import React from "react";
+  import React from "react";
 import "./offer.css";
 import startup from "../../assets/assests/startup.png";
 import performance from "../../assets/assests/performance.png";
