@@ -38,3 +38,9 @@ cursor: pointer;
   transition: 0.1s;
 
 }
+@media screen and (max-width:715px){
+  .details{
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+  }
+}

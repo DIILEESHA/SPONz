@@ -59,3 +59,24 @@ margin-bottom: 40px;
     cursor: pointer;
 
 }
+@media screen and (max-width:863px){
+  .home{
+    flex-direction:column;
+    height: auto;
+    margin-top: 80px;
+  }
+  .homeleft{
+    padding: 10px 70px;
+  }
+  .landingimg{
+    height: 570px;
+    width: auto;
+    margin-top: -10px;
+  }
+  .landingmain{
+    font-size: 25px;
+  }
+  .landingpar{
+    font-size: 18px;
+  }
+}

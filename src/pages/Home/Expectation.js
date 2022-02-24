@@ -16,11 +16,11 @@ let history = useHistory();
             <br /> customers’ behavior across key platforms.
           </p>
           <p className="expectpar">
-            Customer-centric User Experience design to ensure your <br />
+            Customer-centric User Experience design to ensure your 
             customers seamlessly navigate through their goals.
           </p>
           <p className="expectpar">
-            Digital Innovation Consulting to help you build strong <br />
+            Digital Innovation Consulting to help you build strong 
             customer relationships and make insightful decisions.
           </p>
         </div>

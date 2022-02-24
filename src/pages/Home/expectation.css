@@ -48,3 +48,27 @@
     display: flex;align-items: center;justify-content: center;
     /* object-fit: cover; */
 }
+@media screen and (max-width:863px){
+    .main-exp{
+        flex-direction: column;
+        margin-top: -90px;
+    }
+    .expectleft{
+        padding: 10px 70px;
+    }
+    .expectmain{
+        font-size: 25px;
+    }
+    .expectbtn{
+        margin-bottom:40px ;
+    }
+    .expectpar{
+        width: 100%;
+        padding:0;
+    }
+    .landingimger{
+        height: 540px;
+    width: auto;
+    margin-left: 60px;
+    }
+}
