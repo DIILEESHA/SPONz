@@ -11,17 +11,17 @@ const Team = () => {
       <div className="teamadder">The "Sponzzer" Team</div>
       <div className="alllogo">
         <div className="teamlogos1">
-          <img className="logoimg" src={av} alt="" />
+          <img className="logoimg3" src={av} alt="" />
           <span className="logotitle">Pasindu </span>
           <span className="logotitle2">Co-founder </span>
         </div>
         <div className="teamlogos2">
-          <img className="logoimg" src={avd} alt="" />
+          <img className="logoimg3" src={avd} alt="" />
           <span className="logotitle">Ishara </span>
           <span className="logotitle2">Managing director </span>
         </div>
         <div className="teamlogos3">
-          <img className="logoimg" src={ave} alt="" />
+          <img className="logoimg3" src={ave} alt="" />
           <span className="logotitle">Ziham</span>
           <span className="logotitle2">Head of client services </span>
         </div>

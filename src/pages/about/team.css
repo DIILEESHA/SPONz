@@ -9,10 +9,11 @@
   font-weight: 600;
   margin-bottom: 20px;
 }
-.logoimg {
-  width: 100px;
+.logoimg3{
+  /* background-color: rgb(17, 17, 17); */
+  width: 250px;
   margin-bottom: 20px;
-  /* border: 5px solid #444; */
+  /* border: 10px solid teal; */
   border-radius: 50%;
 }
 .teamlogos1:hover {
@@ -43,11 +44,14 @@
 }
 .logotitle {
   display: flex;
+  font-size: 20px;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 900;
+  border-bottom: 1px solid #000;
+  border-top: 1px solid #000;
   margin-bottom: 5px;
 }
 .logotitle2 {
@@ -56,7 +60,7 @@
   align-items: center;
   justify-content: center;
   text-transform: uppercase;
-  color: blue;
+  color: #333;
   font-weight: 500;
 }
 .rt {
@@ -70,7 +74,8 @@
   margin-top: -60px;
 }
 .imgcollector {
-  width: 50%;
+  width: 55%;
+  height: 520px;
 }
 .lert {
   margin-bottom: 30px;

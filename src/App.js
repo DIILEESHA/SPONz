@@ -7,6 +7,7 @@ import Allservices from "./pages/services/Allservices";
 import Mainhome from "./pages/Home/Mainhome";
 import './App.css'
 import Maincontact from "./pages/contact/Maincontact";
+import Mainsolution from './pages/solutions/Mainsolution'
 function App() {
   return (
     <div className="App">
@@ -17,6 +18,7 @@ function App() {
         <Switch>
           
           <Route exact path="/" component={Mainhome} />
+          <Route exact path = '/solution' component={Mainsolution}/>
           <Route exact path="/about" component={Mainabout} />
           <Route exact path="/services" component={Allservices} />
           <Route exact path="/contact" component={Maincontact} />

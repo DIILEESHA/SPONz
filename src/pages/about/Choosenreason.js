@@ -1,6 +1,6 @@
 import React from "react";
 import "./reason.css";
-import two from "../../assets/assests/two.png"
+import two from '../../assets/assests/two.png'
 
 const Choosenreason = () => {
   return (

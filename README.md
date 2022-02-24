@@ -1,6 +1,4 @@
-xd
-.button.sc-jeraig.hdIEnI {
-    border-bottom-right-radius: 15px;
-    border-top-left-radius: 15px;
-    border-block-start-color: initial;
-    font-family: initial;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 25fb2d28bbc3efbfc032736ea30ffb3fa00ffa16

@@ -1,11 +1,11 @@
 import React from "react";
 import "./offer.css";
-import startup from "../../assets/startup.png";
-import performance from "../../assets/performance.png";
-import analytics from "../../assets/analytics.png";
-import stockmarket from "../../assets/stockmarket.png";
-import emailmarketing from "../../assets/emailmarketing.png";
-import art from "../../assets/art.png";
+import startup from "../../assets/assests/startup.png";
+import performance from "../../assets/assests/performance.png";
+import analytics from "../../assets/assests/analytics.png";
+import stockmarket from "../../assets/assests/stockmarket.png";
+import emailmarketing from "../../assets/assests/emailmarketing.png";
+import art from "../../assets/assests/art.png";
 const Offer = () => {
   return (
     <div className="offercontainer">

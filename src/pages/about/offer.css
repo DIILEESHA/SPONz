@@ -21,6 +21,7 @@
   margin: 40px;
   grid-auto-flow:dense ;
   grid-gap : 10px;
+
 }
 .offercontainer .offerbox{
   border-radius: 5px;

@@ -1,0 +1,50 @@
+.main-exp{
+    display: flex;
+    /* background-color: rgb(211, 205, 205); */
+   
+   
+}
+.expectleft{
+    flex: 1;
+    padding: 10px 120px;
+    margin-top: 90px;
+}
+.expectright{
+    flex: 1;
+}
+.expectmain{
+    font-size: 40px;
+    /* border-bottom: 1px solid #000; */
+    margin-bottom: 30px;
+}
+.expectpar{
+    font-weight: 300;
+    list-style-type:circle;
+    color: rgb(34, 33, 33);
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.allparexpect{
+    margin-bottom: 50px;
+}
+.expectbtn{
+    padding: 20px 50px;
+    border: 2px solid rgba(0, 0, 255, 0.616);
+    border-radius: 60px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: blue;
+    cursor: pointer;
+    font-weight: 400;
+    font-family: "poppins";
+    
+}
+.landingimger{
+    width: 120%;
+    height: 100%;
+    margin-left: -100px;
+    margin-top: -10px;
+    display: flex;align-items: center;justify-content: center;
+    /* object-fit: cover; */
+}
